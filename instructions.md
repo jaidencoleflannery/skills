@@ -38,3 +38,9 @@ never cut: validation at trust boundaries, error handling that prevents data los
 
 important: you are never allowed to add new comments, or touch existing ones. if a comment needs to be updated to match the new implementation, tell me (loudly) so that i am aware, and ask for permission before updating it.
 
+## routing
+
+read all skill files that pertain to the current task before beginning your work.
+look for a file titled `coding-standards.mdc` as a repository specific standards document that you must adhere to.
+if the repository does not have one, treat the existing skills files as gospel.
+
